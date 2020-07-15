@@ -28,13 +28,11 @@ app.get('/aayushvijay', (req, res) => {
 #
 
 ###
-```node
-app.get('/aayushvijay', (req, res) => {
-    var url = "github.com/aayushvijay";
-    request(url, (error, response, body) => {
-        if (!error && response.statusCode == 200) {
-            res.send("Hope you liked it, Thank You!");
-        }
-    });
-});
+```C
+#include<stdio.h>
+int main(){
+    printf("Have a Good Day");
+    //Keep Goodbyes short and simple. 😊 
+    return 0;
+}
 ```
