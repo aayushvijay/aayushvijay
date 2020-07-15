@@ -11,7 +11,7 @@ app.get('/aayushvijay', (req, res) => {
     });
 });
 ```
-In relationship with **_npm_**
+>In relationship with **_npm_**
 #
 
 ### Glad to see you here.
@@ -24,6 +24,7 @@ In relationship with **_npm_**
 
 - ⚡ **Fun fact**: 
       `The first computer bug was an actual bug.`
+#
 
 ```node
 app.get('/aayushvijay', (req, res) => {
