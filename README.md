@@ -12,3 +12,13 @@ Glad to see you here.
 - ⚡ **Fun fact**: 
       `The first computer bug was an actual bug.`
 
+```
+app.get('/aayushvijay', (req, res) => {
+    var url = "github.com/aayushvijay";
+    request(url, (error, response, body) => {
+        if (!error && response.statusCode == 200) {
+            res.send("Hi there!");
+        }
+    });
+});
+```
