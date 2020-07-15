@@ -1,5 +1,5 @@
-### Hi there 👋
-#### This is Aayush Vijay.
+## Hi there 👋
+### This is Aayush Vijay.
 
 Glad to see you here.
 
