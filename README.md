@@ -12,7 +12,7 @@ Glad to see you here.
 - ⚡ **Fun fact**: 
       `The first computer bug was an actual bug.`
 
-```
+```node
 app.get('/aayushvijay', (req, res) => {
     var url = "github.com/aayushvijay";
     request(url, (error, response, body) => {
