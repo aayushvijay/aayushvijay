@@ -9,5 +9,5 @@
 - 📫 How to reach me: [aayushvj8699@gmail.com]
 
 - ⚡ **Fun fact**: 
-      >The first computer bug was an actual bug.
+      `The first computer bug was an actual bug.`
 
