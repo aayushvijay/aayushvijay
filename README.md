@@ -11,6 +11,8 @@ app.get('/aayushvijay', (req, res) => {
     });
 });
 ```
+In relationship with **_npm_**
+#
 
 ### Glad to see you here.
 
@@ -23,4 +25,13 @@ app.get('/aayushvijay', (req, res) => {
 - ⚡ **Fun fact**: 
       `The first computer bug was an actual bug.`
 
-
+```node
+app.get('/aayushvijay', (req, res) => {
+    var url = "github.com/aayushvijay";
+    request(url, (error, response, body) => {
+        if (!error && response.statusCode == 200) {
+            res.send("Hope you liked it, Thank You!");
+        }
+    });
+});
+```
