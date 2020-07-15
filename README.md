@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**aayushvijay/aayushvijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on **MERN Stack Development**
 - 🌱 I’m currently learning **Restful APIs & Machine Learning**
