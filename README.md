@@ -31,7 +31,7 @@ app.get('/aayushvijay', (req, res) => {
 ```C
 #include<stdio.h>
 int main(){
-    printf("Have a Good Day");
+    printf("Have a Good Day, Thank You!");
     //Keep Goodbyes short and simple. 😊 
     return 0;
 }
