@@ -11,8 +11,6 @@ app.get('/aayushvijay', (req, res) => {
     });
 });
 ```
->In relationship with **_npm_**
 #
-
 ### Glad to see you here.
 
